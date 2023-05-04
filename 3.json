@@ -1,0 +1,28 @@
+{
+  "classmates": [
+    {
+      "id": 1,
+      "name": "Clark",
+      "age": 14,
+      "adress": "Moscow"
+    },
+    {
+      "id": 2,
+      "name": "Dave",
+      "age": 16,
+      "adress": "Kiev"
+    },
+    {
+      "id": 3,
+      "name": "Ava",
+      "age": 15,
+      "adress": "Helsinki"
+    },
+    {
+      "id": 4,
+      "name": "Janett",
+      "age": 14,
+      "adress": "Canberra"
+    }
+  ]
+}
